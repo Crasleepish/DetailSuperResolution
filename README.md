@@ -13,7 +13,7 @@ Super resolution implementation with GAN
 ### Dataset
 The training images are patches cut out from COCO_train2014 dataset.
 
-The size of patches is 256*256*3.
+The size of patches is 256 × 256 × 3.
 
 The directory of the training images should be ```./datasets/train2014_patch```
 
