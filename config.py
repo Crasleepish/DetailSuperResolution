@@ -1,0 +1,10 @@
+BATCH_SIZE = 8
+GAN_LR = 1e-4
+EPOCHS = 5
+LMDA = 10
+N_CRITIC = 1
+DETAIL_WEIGHT = 1e-2
+DOWNLOSS_WEIGHT = 1e-2
+STEPS_PER_PHASE = 3000
+checkpoint_dir = './SuperResolution_ckpt'
+log_dir = "SuperResolution_logs/"
