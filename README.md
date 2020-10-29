@@ -3,7 +3,7 @@ Super resolution implementation with GAN
 
 ## Inctoduction
 ### Architecture
-![Overview of the Architecture](./architecture.bmp)
+![Overview of the Architecture](./architecture.png)
 
 - disc_loss: recognize the fact that the HighRes2 is more realistic than the predicted HighRes.
 - gen_loss: confuse the disc_loss.
