@@ -29,5 +29,5 @@ Johnson J, Alahi A, Fei-Fei L. Perceptual losses for real-time style transfer an
 
 ## Results
 
-![Demonstration](./SuperResolution_ckpt/step_v_50.png)
+![Demonstration](./demonstration.png)
 
